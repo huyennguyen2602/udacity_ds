@@ -34,6 +34,6 @@ for the 3 questions, we arrived at the following conclusions:
 - which location has the highest career satisfaction? THey start the same in the first year of work, but then Europe has a drop in satisfaction of which never truly recovers until 20 years later.
 
 
-The blog is written on the following [link](https://medium.com/@dan7cor/as-a-software-engineer-is-usa-a-better-place-to-migrate-than-europe-3198aa329be8?sk=a5c08b5a4492d1838ee8891a01acf5e9)
+The blog is written on the following [link](https://medium.com/@thuhuyen.tmt/is-north-america-a-better-immigration-option-for-software-engineers-than-europe-9320396711a9)
 
 An overview of the investigation's findings: We came to the conclusion that North America is the greatest option in the end.
