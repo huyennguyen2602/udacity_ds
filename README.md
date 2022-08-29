@@ -17,6 +17,7 @@ For this, we asked 3 questions:
 2- Data Understanding
 
 The data comes from the stack overflow 2017 survey [link](https://insights.stackoverflow.com/survey)
+Containing Annual Developer Survey examines all aspects of the developer experience from learning to code to their favorite technologies to version control and the workplace experience of professional developers.
 
 3- Prepare Data
 
@@ -43,3 +44,8 @@ Libraries Used
 - Numpy
 - Matplotlib 
 - Seaborn
+
+File in Repository
+- code.ipynb: notebook contains the data analysis
+- survey_results_public.csv: Stackoverflow's 2017 survey data
+- Readme.md
