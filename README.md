@@ -38,7 +38,7 @@ The blog is written on the following [link](https://medium.com/@thuhuyen.tmt/is-
 
 An overview of the investigation's findings: We came to the conclusion that North America is the greatest option in the end.
 
-Library Used
+Libraries Used
 - Pandas
 - Numpy
 - Matplotlib 
