@@ -28,7 +28,7 @@ we graphed different behaviours that were relevant to the 3 questions by using t
 
 5- Evaluate the Results
 
-for the 3 questions, we arrived at the following conclusions:
+For the 3 questions, we arrived at the following conclusions:
 - Which location has the highest salary? North America
 - Which location has the highest salary growth? Both follow a similar pattern
 - which location has the highest career satisfaction? THey start the same in the first year of work, but then Europe has a drop in satisfaction of which never truly recovers until 20 years later.
@@ -37,3 +37,9 @@ for the 3 questions, we arrived at the following conclusions:
 The blog is written on the following [link](https://medium.com/@thuhuyen.tmt/is-north-america-a-better-immigration-option-for-software-engineers-than-europe-9320396711a9)
 
 An overview of the investigation's findings: We came to the conclusion that North America is the greatest option in the end.
+
+Library Used
+- Pandas
+- Numpy
+- Matplotlib 
+- Seaborn
