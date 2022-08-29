@@ -47,5 +47,5 @@ Libraries Used
 
 File in Repository
 - code.ipynb: notebook contains the data analysis
-- survey_results_public.csv: Stackoverflow's 2017 survey data
+- stack-overflow-developer-survey-2017.zip: Stackoverflow's 2017 survey data
 - Readme.md
